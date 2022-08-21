@@ -1,8 +1,10 @@
 # SoftUniCreative
 
+<br/>
+
 <a href="https://creative.softuni.bg/curriculum" rel="Courses">![SoftUni Creative Logo][logo]<a/>
 
-[logo]: https://github.com/AniSoft/ "SoftUniCreative"
+[logo]: https://github.com/AniSoft/SoftUniCreative/blob/main/Pictures/SoftUni-Creative-Logo.png "SoftUniCreative"
 
 ## Courses and Certificates
 
